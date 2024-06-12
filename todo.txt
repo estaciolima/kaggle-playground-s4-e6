@@ -1,1 +1,2 @@
-- Remover categorias que não aparecem nos dados de teste
+- Remover categorias que não aparecem nos dados de teste [done]
+- Drop duplicates
