@@ -1,2 +1,3 @@
 - Remover categorias que não aparecem nos dados de teste [done]
-- Drop duplicates
+- Drop duplicates [done]
+- Fazer algo em relação as notas zero, como criar uma variável binária que seja 1 para notas zero
